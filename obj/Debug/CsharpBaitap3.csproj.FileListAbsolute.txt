@@ -1,0 +1,10 @@
+C:\Users\LENOVO\source\repos\CsharpBaitap3\obj\Debug\CsharpBaitap3.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\CsharpBaitap3\obj\Debug\CsharpBaitap3.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\CsharpBaitap3\bin\Debug\CsharpBaitap3.exe.config
+C:\Users\LENOVO\source\repos\CsharpBaitap3\bin\Debug\CsharpBaitap3.exe
+C:\Users\LENOVO\source\repos\CsharpBaitap3\bin\Debug\CsharpBaitap3.pdb
+C:\Users\LENOVO\source\repos\CsharpBaitap3\bin\Debug\Process_data.dll
+C:\Users\LENOVO\source\repos\CsharpBaitap3\bin\Debug\Process_data.pdb
+C:\Users\LENOVO\source\repos\CsharpBaitap3\obj\Debug\CsharpBa.5D2EABED.Up2Date
+C:\Users\LENOVO\source\repos\CsharpBaitap3\obj\Debug\CsharpBaitap3.exe
+C:\Users\LENOVO\source\repos\CsharpBaitap3\obj\Debug\CsharpBaitap3.pdb
